@@ -1,0 +1,38 @@
+Request URL: https://app.ringostat.com/users/ajax_login
+Request Method: POST
+Status Code: 202 
+Remote Address: 172.67.74.32:443
+Referrer Policy: strict-origin-when-cross-origin
+cf-cache-status: DYNAMIC
+cf-ray: 7b1fdcd5cc8bb9ab-BRU
+content-length: 14
+content-type: application/json; charset=UTF-8
+date: Mon, 03 Apr 2023 08:15:19 GMT
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zBABoFW1fWktqnLNbr4w3i4wP0sac2lKyjaRccCNsGJJyt6MO8Zx%2BTjLLuzB13pkP8XT%2BB%2BmcOeqMazcsXF3FW39rmCKJ%2B3%2Bpc3vj4jNaF9w7jUv1obuaQLsdiexDCsdugr%2B"}],"group":"cf-nel","max_age":604800}
+server: cloudflare
+set-cookie: rngstsession=61ac34db748d1ad9b8756166d35c83f7; expires=Wed, 16-Feb-2028 08:15:15 GMT; Max-Age=153792000; path=/; domain=.ringostat.com; secure; HttpOnly
+set-cookie: CakeCookie[language]=Q2FrZQ%3D%3D.wkFq; path=/
+set-cookie: CakeCookie[sso_redirect]=Q2FrZQ%3D%3D.lg%3D%3D; path=/
+:authority: app.ringostat.com
+:method: POST
+:path: /users/ajax_login
+:scheme: https
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cache-control: no-cache
+content-length: 350
+content-type: application/x-www-form-urlencoded; charset=UTF-8
+cookie: rngstsession=2e16a3200cc6a721546e620c36e32829; CakeCookie[language]=Q2FrZQ%3D%3D.wkFq; _gcl_au=1.1.1763891732.1680509671; _gid=GA1.2.1600055434.1680509671; _ga_22TQFTC8Y8=GS1.1.1680509550.1.1.1680509671.58.0.0; _ga=GA1.1.900830140.1680509671; ln_or=eyI0OTQwMTM3IjoiZCJ9; _clck=1lqtuua|1|fag|0; _clsk=1otu8c6|1680509671603|1|1|t.clarity.ms/collect; __cf_bm=mbsXOoYZsaT_.uwJDRPVBIc_IdK.TpXgB5M1BZckQSo-1680509671-0-AdQovP0RS7XRILkrOa6GGvxjAzEWJqtR64VvRzjVGg5pV/E/8vcWVng+ubRYm2w2txh72SWux3F281f6NTlaPfsy2dkE6rRRNbIynfzlPrIXEnLPyQxOYt4sHN2Aashw+Q==; intercom-id-berz4v0w=80fce3f4-6e10-46fd-89d5-3ad737a75263; intercom-session-berz4v0w=; intercom-device-id-berz4v0w=5fb3c383-53ee-4cbc-a91d-5f22789fc25e
+origin: https://app.ringostat.com
+pragma: no-cache
+referer: https://app.ringostat.com/login
+sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: empty
+sec-fetch-mode: cors
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+x-requested-with: XMLHttpRequest
